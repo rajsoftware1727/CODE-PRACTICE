@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ListenerDemo1">
+<test name="ListenerDemo">
+<classes>
+<class  name="ListenerDemo1">
+</class></classes></test>
+</suite>

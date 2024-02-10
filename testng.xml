@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Thread Demo" parallel="tests" >
+ 
+	 <test name="parameter1">
+		 <parameter name="gg" value="raj"></parameter>
+ 
+		  <classes>
+			  <class name="TestNGPractice.PrameterDemo"></class>
+			  <class name="TestNGPractice.Parameter1"></class>
+
+ 
+		  </classes></test>
+	 
+	 
+	 
+	 
+	
+</suite>
+ 

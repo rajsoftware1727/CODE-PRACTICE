@@ -1,0 +1,5 @@
+2023-05-07 12:07:29 INFO  Log4jConfigureXML:13 - this is info level
+2023-05-07 12:07:29 WARN  Log4jConfigureXML:14 - this is warn level
+2023-05-07 12:07:29 ERROR Log4jConfigureXML:15 - this is error level
+2023-05-07 12:07:29 FATAL Log4jConfigureXML:16 - this is fatal level
+2023-05-07 12:07:29 DEBUG Log4jConfigureXML:17 - this is debug level

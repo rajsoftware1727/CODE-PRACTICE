@@ -1,0 +1,4 @@
+INFO	2023-05-07 11:20:58,560	0	Log4jProperties.Log4jPropertiesConfig	[main]	this is info level
+WARN	2023-05-07 11:20:58,561	1	Log4jProperties.Log4jPropertiesConfig	[main]	this is warn level
+ERROR	2023-05-07 11:20:58,561	1	Log4jProperties.Log4jPropertiesConfig	[main]	this is error level
+FATAL	2023-05-07 11:20:58,561	1	Log4jProperties.Log4jPropertiesConfig	[main]	this is fatal level

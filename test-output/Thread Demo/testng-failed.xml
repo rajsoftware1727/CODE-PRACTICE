@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Thread Demo]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="depends on groups demo(failed)">
+    <classes>
+      <class name="InterviewDemo_java.ParameterDemo1">
+        <methods>
+          <include name="test1"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- InterviewDemo_java.ParameterDemo1 -->
+    </classes>
+  </test> <!-- depends on groups demo(failed) -->
+</suite> <!-- Failed suite [Thread Demo] -->
